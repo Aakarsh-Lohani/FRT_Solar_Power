@@ -1,0 +1,210 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #1a202c;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.header{
+    display: flex;
+}
+h2, h3 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    text-align: right;
+}
+
+svg {
+    filter: invert(1);
+}
+
+a {
+    color: #48bb78;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.price {
+    color: #0fabdf;
+}
+.price-button-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.bg-gray-50 {
+    background-color: #f7fafc;
+    padding: 20px;
+}
+
+.text-gray-500 {
+    color: #cbd5e0;
+}
+
+.text-gray-900 {
+    color: #edf2f7;
+}
+
+.text-primary-foreground {
+    color: #2d3748;
+}
+
+.bg-primary {
+    background-color: #4a5568;
+    border: none;
+    color: #edf2f7;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.dark:border-gray-800 {
+    border-color: #2d3748;
+}
+
+.dark:bg-gray-950 {
+    background-color: #1a202c;
+}
+
+.dark:text-gray-900 {
+    color: #cbd5e0;
+}
+
+.dark:text-gray-400 {
+    color: #a0aec0;
+}
+.placeholder:text-muted-foreground::placeholder {
+    color: #a0aec0;
+}
+header {
+    background-color: #2d3748;
+    padding: 20px;
+    color: #edf2f7;
+}
+
+.logo {
+    width: 10vh;
+    height: auto;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.placeholder:text-muted-foreground::placeholder {
+    color: #a0aec0;
+}
+header {
+    background-color: #2d3748; /* Darker background color for header */
+    padding: 20px;
+    color: #edf2f7; /* Light text color for header */
+}
+
+.logo {
+    width: 10vh; /* Adjust width as needed */
+    height: auto;
+}
+
+/* Hero Section Styles */
+.hero {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.image-container {
+    display: flex;
+    justify-content: center; /* This will center the image horizontally */
+    align-items: center; /* This will center the image vertically */
+}
+
+.hero p {
+    font-size: 20px;
+    color: #a0aec0; /* Lighter text color for hero section */
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Feature Section Styles */
+.feature {
+    padding: 50px 0;
+}
+
+.feature h3 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.feature p {
+    font-size: 18px;
+    color: #a0aec0; /* Lighter text color for feature section */
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Button Styles */
+.btn {
+    background-color: #48bb78; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #38a169; /* Darker background color on hover */
+}
+
+/* Footer Styles */
+footer {
+    background-color: #2d3748; /* Darker background color for footer */
+    color: #a0aec0; /* Light text color for footer */
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-links {
+    margin-top: 20px;
+}
+
+.footer-links a {
+    color: #48bb78; /* Footer link color */
+    margin: 0 10px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
