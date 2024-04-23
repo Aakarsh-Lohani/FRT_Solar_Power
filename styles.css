@@ -14,8 +14,8 @@ body {
     padding: 0 20px;
 }
 .logo {
-    width: 24vh;
-    height: 27vh;
+    width: 10vh;
+    height: auto;
 }
 .header{
     display: flex;
@@ -64,8 +64,8 @@ a:hover {
     
 }
 .solar-bot-btn img {
-    width: 83px; 
-    height: 83px; 
+    width: 25px; 
+    height: 25px; 
     vertical-align: middle; /* Align the icon with the text */
     margin-right: 5px; /* Add some space between the icon and the text */
 }
