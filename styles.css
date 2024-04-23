@@ -13,9 +13,14 @@ body {
     margin: 0 auto;
     padding: 0 20px;
 }
+.logo {
+    width: 24vh;
+    height: 27vh;
+}
 .header{
     display: flex;
 }
+
 h2, h3 {
     text-align: center;
     color: whitesmoke;
@@ -49,7 +54,21 @@ a:hover {
     align-items: center;
     gap: 20px;
 }
-
+.solar-bot-btn {
+    font-size: 25px; 
+    color: #0a5228; 
+    background-color: #a7ff0e; /* Add a background color */
+    padding: 35px 20px; /* Add some padding */
+    border-radius: 5px; /* Add rounded corners */
+    margin-left: auto;
+    
+}
+.solar-bot-btn img {
+    width: 83px; 
+    height: 83px; 
+    vertical-align: middle; /* Align the icon with the text */
+    margin-right: 5px; /* Add some space between the icon and the text */
+}
 .bg-gray-50 {
     background-color: #f7fafc;
     padding: 20px;
@@ -143,8 +162,8 @@ header {
 }
 .image-container {
     display: flex;
-    justify-content: center; /* This will center the image horizontally */
-    align-items: center; /* This will center the image vertically */
+    justify-content: center; /*  center the image horizontally */
+    align-items: center; /* Tcenter the image vertically */
 }
 
 .hero p {
