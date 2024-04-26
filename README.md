@@ -1,4 +1,4 @@
-                                                      # SOLAR POWER
+                                 # SOLAR POWER
 
 This repo contains the "Solar Power" Full Stack Project for the Microsoft Future Ready Talent Internship.
 Live At: https://solarfrt.azurewebsites.net/
