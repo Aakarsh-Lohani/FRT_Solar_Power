@@ -40,7 +40,7 @@ Other Services:
  - Azure AI Language Studio: To train the Bot with data related to Solar Energy, Solar Power, and the project itself.
  - IDE: Visual Studio Code: For the deployment of Azure Function, building the Front End of the Website, and Source Control using GitHub. Used Azure Extensions for handling Azure Services.
  - GitHub: For source control, creating a repository, and "Continuous Deployment (CD)" of the website using Azure App Service.
- - AI GitHub Copilot (GitHub Students Developers Pack) : Handling errors and optimization .
+ - AI GitHub Copilot (GitHub Student Developer Pack) : Handling errors and optimization .
 
 ## Conclusion
 
