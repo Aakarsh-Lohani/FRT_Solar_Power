@@ -1,6 +1,6 @@
                                                       # SOLAR POWER
 
-This repo contains the Solar Power Project for the Microsoft Future Ready Talent Internship.
+This repo contains the "Solar Power" Full Stack Project for the Microsoft Future Ready Talent Internship.
 Live At: https://solarfrt.azurewebsites.net/
 
 ## Problem Statement 
@@ -25,7 +25,11 @@ This project aims to bridge this information gap using Azure services and Azure 
 
 ## Technologies Used
 
-This project is built with HTML, CSS, JavaScript, Node.js, and SMTP.
+This project is built with 
+ - HTML, CSS, JavaScript ( Front End )
+ - Node.js, Express.js and SMTP ( Back End )
+ - Microsoft Azure Cloud Services
+ - Azure AI Language Studio ( Knowledge Base for Solar Bot ) 
 
 Microsoft Azure Services used are:
  - Azure App Service: For hosting the website.
@@ -34,8 +38,9 @@ Microsoft Azure Services used are:
 
 Other Services:
  - Azure AI Language Studio: To train the Bot with data related to Solar Energy, Solar Power, and the project itself.
- - IDE: Visual Studio Code: For the deployment of Azure Function, building the Front End of the Website, and Source Control using GitHub.
+ - IDE: Visual Studio Code: For the deployment of Azure Function, building the Front End of the Website, and Source Control using GitHub. Used Azure Extensions for handling Azure Services.
  - GitHub: For source control, creating a repository, and "Continuous Deployment (CD)" of the website using Azure App Service.
+ - AI GitHub Copilot (GitHub Students Developers Pack) : Handling errors and optimization .
 
 ## Conclusion
 
