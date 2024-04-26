@@ -3,6 +3,7 @@
 This repo contains the "Solar Power" Full Stack Project for the Microsoft Future Ready Talent Internship.
 Live At: https://solarfrt.azurewebsites.net/
 
+Azure Function Repo : https://github.com/Aakarsh-Lohani/FRT_SOLAR_POWER_EMAIL
 ## Problem Statement 
 
 There is a need to promote green energy, especially solar energy. However, many potential users lack adequate knowledge about the benefits of solar energy, the process of purchasing solar panels, and the services offered. 
