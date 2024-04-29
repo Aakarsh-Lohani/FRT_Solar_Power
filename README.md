@@ -48,39 +48,39 @@ Other Services:
 
 ![Azure Services used 1](https://github.com/Aakarsh-Lohani/FRT_Solar_Power/assets/134588187/e28a1368-c06f-41fb-a2af-86b5223a6c44)
 #Azure App Service for Hosting Website and Azure AI Bot Service for Solar Bot
-
+<br>
 
 
 
 ![Azure Services used 2](https://github.com/Aakarsh-Lohani/FRT_Solar_Power/assets/134588187/852d4079-8957-4ac4-ba97-a789d630d497)
 #Azure Function App for creating HTTPS Triggered Function for sending emails.
-
+<br>
 
 
 ## Deployments
 ![resources used](https://github.com/Aakarsh-Lohani/FRT_Solar_Power/assets/134588187/6fb8ee38-43e3-45a4-86ea-f4e76cf3149e)
 #Azure Resources used in the website
-
+<br>
 
 
 ![App Service](https://github.com/Aakarsh-Lohani/FRT_Solar_Power/assets/134588187/6f33a35d-391f-4218-b611-95d12960e987)
 #Azure App Service for hosting the website.
-
+<br>
 
 
 ![solarbot](https://github.com/Aakarsh-Lohani/FRT_Solar_Power/assets/134588187/b086b605-b4c2-472c-9d16-967dd4d29e5b)
 #Azure AI Bot Service for creating Solar Bot.
-
+<br>
 
 
 ![function app](https://github.com/Aakarsh-Lohani/FRT_Solar_Power/assets/134588187/9294efb8-0cc2-4e8b-b2f6-d1036b7d93b9)
 #Azure Function App for sending emails .
-
+<br>
 
 
 ![Language Studio](https://github.com/Aakarsh-Lohani/FRT_Solar_Power/assets/134588187/77040000-19a1-41b8-ab9c-6ec4cc2a56f7)
 #Azure AI Language Studio for Knowledge Base of Solar Bot .
-
+<br>
 
 
 
