@@ -4,8 +4,10 @@ This repo contains the "Solar Power" Full Stack Project for the Microsoft Future
 
  - Live At: https://solarfrt.azurewebsites.net/
  - Project Video Demo : https://youtu.be/ShRqYF3pS9k?si=xViPkKY9I9HiXEoF
-
  - Azure Function Repo : https://github.com/Aakarsh-Lohani/FRT_SOLAR_POWER_EMAIL
+ - Solar Bot : https://solarfrt.azurewebsites.net/solarbot.html
+ - FAQ supported by SolarBot : https://github.com/Aakarsh-Lohani/FRT_Solar_Power/blob/main/SolarFAQ.txt
+   
 ## Problem Statement 
 
 There is a need to promote green energy, especially solar energy. However, many potential users lack adequate knowledge about the benefits of solar energy, the process of purchasing solar panels, and the services offered. 
@@ -21,6 +23,7 @@ This project aims to bridge this information gap using Azure services and Azure 
 - **Educational Content**: The website provides comprehensive information about the importance of green energy and solar energy, helping users understand the environmental and economic benefits of switching to solar power.
 
 - **Azure AI Bot Integration**: An Azure bot is integrated to provide information about solar panels, solar energy, and the services offered. The bot can answer user queries in real-time, enhancing user engagement and satisfaction.
+FAQ used for building SolarBot : https://github.com/Aakarsh-Lohani/FRT_Solar_Power/blob/main/SolarFAQ.txt
 
 - **Azure App Service**: The website is hosted using Azure App Service, ensuring high availability and scalability to handle varying traffic loads.
 
