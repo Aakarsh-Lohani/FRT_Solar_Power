@@ -1,0 +1,62 @@
+Q1: What is the purpose of the "SOLAR POWER" project?
+
+A: The "SOLAR POWER" project is a web-based platform dedicated to promoting green energy, with a focus on solar energy. It aims to address the problem of information asymmetry in the solar energy sector by providing detailed insights about the importance of green energy and the benefits of solar panels.
+
+Q2: What kind of information can I find on the platform?
+
+A: The platform provides comprehensive information about the importance of green energy and solar energy. It helps users understand the environmental and economic benefits of switching to solar power.
+
+Q3: Can I purchase solar panels through the platform?
+
+A: Yes, the platform offers options for users to purchase solar panels. It provides product descriptions and pricing, simplifying the purchase process for users.
+
+
+Q4: What is the importance of solar energy?
+
+A: Solar energy is a clean, renewable source of energy that can help reduce greenhouse gas emissions and dependence on fossil fuels. It is also a cost-effective solution in the long run, as the sun provides free energy once the solar panels are installed.
+
+Q5: What are the benefits of solar panels?
+
+A: Solar panels convert sunlight into electricity, providing a sustainable and environmentally-friendly energy solution. They can help reduce electricity bills, increase property value, and contribute to energy independence.
+
+Q6: How can I contact sales?
+
+A: You can contact sales by clicking on 'Contact Sales' and submitting your email. Our team will get back to you promptly.
+
+
+Q7: How do solar panels work?
+
+A: Solar panels work by allowing particles of light, or photons, to knock electrons free from atoms, generating a flow of electricity. They are made up of many smaller units called photovoltaic cells. Each photovoltaic cell is basically a sandwich made up of two slices of semi-conducting material, usually silicon.
+
+Q8: Can solar panels work on cloudy days?
+
+A: Yes, solar panels will still work even when the light is reflected or partially blocked by clouds. The efficiency of the panels will decrease, but they will still produce power.
+
+Q9: How much maintenance do solar panels require?
+
+A: Solar panels generally require very little maintenance. They need to be kept relatively clean, so washing them a couple of times per year will usually be sufficient. It is, however, recommended to have them inspected for damage annually, especially in areas with harsh weather conditions.
+
+Q10: How long do solar panels last?
+
+A: Most high-quality solar panels are expected to last at least 25-30 years. However, this doesn't mean that they stop producing electricity after 25 years – it just means that energy production has declined by what manufacturers consider to be a significant amount.
+
+Q11: Can solar panels be recycled?
+
+A: Yes, solar panels can be recycled. They contain valuable materials like silver and silicon, which can be recovered and reused. However, not all recycling centers have the capacity to process solar panels, so they must be taken to a specialized facility.
+
+Q12: What are the environmental benefits of solar energy?
+
+A: Solar energy is a clean, renewable source of energy that can help reduce greenhouse gas emissions and dependence on fossil fuels. Unlike traditional forms of energy, it doesn't release harmful pollutants into the environment.
+
+Q13: What are the financial benefits of solar energy?
+
+A: Solar energy can help reduce electricity bills, and in some cases, you may be able to sell excess power back to the grid. Additionally, solar panels can increase property value. While the upfront cost can be high, the long-term savings can be significant.
+
+Q14: What is the process of installing solar panels?
+
+A: The process of installing solar panels starts with a site evaluation and feasibility study. If the site is deemed suitable, the system design process begins. Once the design is finalized, the installation process can begin. This involves mounting the panels, wiring the system, and connecting it to the grid.
+
+Q15: Can I install solar panels myself?
+
+A: While it's possible to install solar panels yourself, it's generally recommended to have them installed by a professional. This ensures that they are installed safely and correctly, and that you get the most efficiency out of your system.
+
