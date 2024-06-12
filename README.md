@@ -2,7 +2,8 @@
 
 This repo contains the "Solar Power" Full Stack Project for the Microsoft Future Ready Talent Internship.
 
- - Live At: https://solarfrt.azurewebsites.net/
+ - Live At: https://aakarsh-lohani.github.io/FRT_Solar_Power/
+ - Live At: https://solarfrt.azurewebsites.net/ (Azure Credits Expired)
  - Project Video Demo : https://youtu.be/ShRqYF3pS9k?si=xViPkKY9I9HiXEoF
  - Azure Function Repo : https://github.com/Aakarsh-Lohani/FRT_SOLAR_POWER_EMAIL
  - Solar Bot : https://solarfrt.azurewebsites.net/solarbot.html
